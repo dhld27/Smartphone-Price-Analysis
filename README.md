@@ -18,10 +18,10 @@ This project was completed during a Data Science Bootcamp and involves analyzing
 ## 📂 Repository Contents
 
 Smartphone-Price-Analysis/
-├── Smartphone-Price-Analysis.ipynb # Main notebook with EDA & analysis
-├── Sales.csv # Raw data file
-├── SalesCleaned.csv # Cleaned data ready for analysis
-└── README.md # Project documentation (this file)
+├── Smartphone-Price-Analysis.ipynb # Main notebook with EDA & analysis  
+├── Sales.csv # Raw data file  
+├── SalesCleaned.csv # Cleaned data ready for analysis  
+└── README.md # Project documentation (this file)  
 
 ---
 
